@@ -71,6 +71,17 @@ customers in their system and how their ordering behaviors differ. For example:
 -   05 Sent to Client: Final Report (Excel)
 
 
+## Tools
+
+
+-  Pandas: for data analysis
+-  Numpy: for mathematical equations
+-  Seaborn: for data visualizations
+-  Matplotlib: for data visualizations
+-  SciPy: for mathematical equations
+
+
+
 ## Disclaimer
 
 Instacart is a real company that’s made their data available online. However, the contents of this project brief and the customer related data
