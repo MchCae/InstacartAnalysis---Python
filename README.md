@@ -70,3 +70,8 @@ customers in their system and how their ordering behaviors differ. For example:
 -   04 Analysis: Visualizations 
 -   05 Sent to Client: Final Report (Excel)
 
+
+## Disclaimer
+
+Instacart is a real company that’s made their data available online. However, the contents of this project brief and the customer related data
+have been fabricated for the purpose of this project.
