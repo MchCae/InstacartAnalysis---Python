@@ -60,3 +60,13 @@ customers in their system and how their ordering behaviors differ. For example:
   - What differences can you find in ordering habits of different customer
  profiles? Consider the price of orders, the frequency of orders, the products
  customers are ordering, and anything else you can think of.
+
+
+## Folder structure
+
+
+-   01 Project Management: Project brief
+-   03 Scripts: Jupyter notebooks with commentary.
+-   04 Analysis: Visualizations 
+-   05 Sent to Client: Final Report (Excel)
+
